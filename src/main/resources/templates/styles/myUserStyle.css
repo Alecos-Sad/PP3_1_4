@@ -1,0 +1,7 @@
+.navbar-text#logoutBtn{
+    --bs-btn-hover-color: --bs-white;
+}
+
+.col-2{
+    height: 50px;
+}

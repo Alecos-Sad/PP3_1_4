@@ -1,0 +1,18 @@
+.navbar-text#logoutBtn {
+    --bs-btn-hover-color: --bs-white;
+}
+
+.col-2 {
+    height: 50px;
+}
+
+.btn-primary#editBtn {
+    --bs-btn-bg: #17a2b8;
+    --bs-btn-hover-bg: #148ea1;
+    --bs-btn-border-color: #17a2b8;
+    --bs-btn-hover-border-color: #148ea1;
+    --bs-btn-active-bg: rgba(19, 137, 155, 0.99);
+    --bs-btn-active-border-color: rgba(19, 137, 155, 0.99);
+}
+
+
